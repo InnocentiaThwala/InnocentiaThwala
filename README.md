@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @InnocentiaThwala
 - 👀 I’m interested in Back-end 
 - 🌱 I’m currently learning Java SE
+- I want to do Back-end related certification
 
 
 <!---
